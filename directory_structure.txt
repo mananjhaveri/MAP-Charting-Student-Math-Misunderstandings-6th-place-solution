@@ -1,0 +1,13 @@
+.
+./src
+./submission
+./data
+./outputs
+./models
+./models/qwen3-8b-emb
+./models/qwen2.5-14B-IT
+./models/qwen3-8B-emb-aug-data
+./models/qwen3-14B-full-data
+./models/qwen3-14B-syhntetic-data
+./models/map-qwen3-14b-3407
+./models/qwen3_8b_emb_synthetic_data

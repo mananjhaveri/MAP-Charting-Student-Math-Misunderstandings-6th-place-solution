@@ -1,0 +1,81 @@
+row_id,QuestionId,QuestionText,MC_Answer,StudentExplanation,Category,Misconception
+38,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{1}{3} \),"1/3 of the 9 triangles are shaded, so 3/9=1/3.",True_Correct,NA
+79,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{1}{3} \),3 of the 9 triangles are shaded simplest form is 1/3,True_Correct,NA
+119,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{1}{3} \),3 out of 9 triangles are not shaded.,True_Correct,NA
+123,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{1}{3} \),3 out of nine triangles are not shaded,True_Misconception,Incomplete
+270,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{1}{3} \),3/9 of the triangles are shaded which is equal to one third,True_Correct,NA
+580,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{1}{3} \),Because three are not shaded in,True_Correct,NA
+2069,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{1}{3} \),one third of three out of nine is equal to one third.,True_Neither,NA
+2119,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{1}{3} \),the total is nine 3 are shaded 3 9ths can be simplified by 3 giving 1 3rd,True_Correct,NA
+2725,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{6} \),there are 6 blue squares and 3 are shaded.,False_Neither,NA
+2904,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),3 is shaded out of nine,False_Misconception,Incomplete
+2914,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),3 of the nine parts were shaded this is also equivalent to 1/3,False_Correct,NA
+2916,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),3 of the triangles are not blue,False_Neither,NA
+2937,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),3 out of Nine parts are not shaded,False_Misconception,Incomplete
+3139,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),Because there are 9 trayangels and 3 wayte,False_Misconception,Incomplete
+3391,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),I know this because 3 is not shaded is 9 triangles,False_Neither,NA
+4161,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),because there are 9 triangles and 3 of them are shaded,False_Misconception,Incomplete
+4262,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),becuse theres 9 and 3 are shaded,False_Misconception,Incomplete
+4265,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),cause 3 are shaded and there are nine in total,False_Neither,NA
+4269,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),cause its 9 triangles and there are not shaded,False_Misconception,Incomplete
+4337,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),i did 3 9 because there are some white and blue triangles,False_Misconception,Incomplete
+4425,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),i think this because 3 out of 9 triangles have been shaded,False_Misconception,Incomplete
+4792,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),there is 9 peices and six is shaded,False_Misconception,Incomplete
+4878,31774,Calculate \( \frac{1}{2} \div 6 \),\( 3 \),1/2 divided by 6/6 the answer is 3.,False_Misconception,SwapDividend
+5287,31774,Calculate \( \frac{1}{2} \div 6 \),\( 3 \),because divide is the same as of,False_Misconception,Mult
+5292,31774,Calculate \( \frac{1}{2} \div 6 \),\( 3 \),because half of six is 3,False_Misconception,SwapDividend
+5297,31774,Calculate \( \frac{1}{2} \div 6 \),\( 3 \),because i divide the denominator by six,False_Neither,NA
+5490,31774,Calculate \( \frac{1}{2} \div 6 \),\( 3 \),the divide symbol also means of,False_Misconception,Mult
+7254,31774,Calculate \( \frac{1}{2} \div 6 \),\( \frac{1}{12} \),if you do the flip and kiss method you get 1/12,True_Correct,NA
+7790,31774,Calculate \( \frac{1}{2} \div 6 \),\( \frac{6}{2} \),"I think this because I did keep, change, flip.",False_Neither,NA
+7982,31777,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?",\( 24 \),120 is in the times table,False_Misconception,Irrelevant
+10819,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 3 \),3/5 because half of 10 and 9 dived by 3 to get 3.,False_Neither,NA
+11456,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 4 \),3 because you divide by three so you do the same to the numerator,False_Neither,NA
+12311,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 4 \),i think this because there is nothing you can times so you could be adding 5,False_Misconception,Additive
+13441,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 6 \),I think this since they are both equivalent fractions.,True_Correct,NA
+13819,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 6 \),because its 2 off 10 in the 2 times table,True_Neither,NA
+14368,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 9 \),because it is the same as 9/15,False_Neither,NA
+18342,32833,Calculate \( \frac{2}{3} \times 5 \),\( \frac{10}{15} \),3 x 5 is 15 and 2 x 5 is 10,False_Misconception,Inversion
+18682,32833,Calculate \( \frac{2}{3} \times 5 \),\( \frac{10}{15} \),because you put the 5 over 1 and then multiply the fractions,False_Correct,NA
+19005,32833,Calculate \( \frac{2}{3} \times 5 \),\( \frac{10}{15} \),it is a because you have to times both of the numbers,False_Misconception,Duplication
+20064,32835,Which number is the greatest?,\( 6 \),i think this because that number is not in decimal land,False_Neither,NA
+20203,32835,Which number is the greatest?,\( 6.0001 \),i think d because it has more decimal places.,False_Misconception,Longer_is_bigger
+21776,32835,Which number is the greatest?,\( 6.2 \),it is the closest to 7,True_Correct,NA
+24520,33472,\( \frac{1}{3}+\frac{2}{5}= \),\( \frac{11}{15} \),i think this because i did a calculation,True_Neither,NA
+25599,33472,\( \frac{1}{3}+\frac{2}{5}= \),\( \frac{3}{15} \),because you need to add 1+2 and then x 3+5.,False_Misconception,Adding_across
+26045,33472,\( \frac{1}{3}+\frac{2}{5}= \),\( \frac{3}{8} \),add the top and both bottom,False_Neither,NA
+28301,76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],Not enough information,i cant work out what it is so i put d,False_Neither,NA
+28428,76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],Not enough information,there are many polygons it could be any of tem,False_Neither,NA
+28863,76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],\( 10 \),i think the answer is a decagon which has 10 sides and all the interior angles sum to 144 degrees.,True_Correct,NA
+29550,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( -13 \),as negative take away negative is negative,False_Misconception,Positive
+29917,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( -13 \),instead of taking away normally its negative so u have to add on to it,False_Neither,NA
+30188,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( -3 \),"-8 take away -5 is -3, as it is 2 negatives",True_Neither,NA
+31494,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( -3 \),"your starting point is -8, was translated -5 spaces in the negative direction, and ended in -3.",True_Correct,NA
+31922,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( 3 \),3 beacuse it wouldn’t got that high and when you minus a negative it gets bigger,False_Misconception,Positive
+32304,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( 3 \),take away sign changes to + cuz of negative in front,False_Misconception,Tacking
+32680,91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 22 \),because it adds on 4 every time,False_Neither,NA
+32725,91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 22 \),because the pattern is increasing with 4 dots,False_Misconception,Wrong_term
+32864,91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 22 \),i just added from the pattern 4,False_Neither,NA
+33004,91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 22 \),it is adding 4 and the shape is changing,False_Neither,NA
+33625,91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 26 \),because there would be 26 dots in pattern 6,True_Neither,NA
+33851,91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 26 \),first i figured out how many balls were in pattern 5 so i could figure how many balls there were on pattern 6,True_Correct,NA
+34821,91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 36 \),c because i know that it is,False_Neither,NA
